@@ -79,7 +79,6 @@ Future Improvements
 Integrate machine learning to make the chatbot smarter.
 Allow dynamic pattern learning based on user interaction.
 Use APIs like GPT for natural language understanding.
-License
-This project is open-source and available under the MIT License.
+
 
 ![WhatsApp Image 2025-01-13 at 20 19 58_0b79f6c1](https://github.com/user-attachments/assets/e0c3a575-00cd-45c0-a6ca-2e3fff1715d6)
