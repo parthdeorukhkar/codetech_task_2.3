@@ -1,5 +1,19 @@
 # codetech_task_2.3
 
+Name:Parth Deorukhkar
+
+Company:CODETECH IT SOLLUTION
+
+ID:CT08EIV
+
+Domain:Python
+
+Duration:Dec17 to Jan 17
+
+Mentor:Neela Santosh Kumar
+
+
+
 Chatbot Using NLTK
 This project implements a simple chatbot using Python's Natural Language Toolkit (NLTK). The chatbot can respond to predefined user inputs and simulate basic conversational interactions.
 
